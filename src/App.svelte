@@ -36,7 +36,7 @@
 	}
 
 	.error {
-		color: var(--danger-color);
+		color: var(--primary-color);
 		font-weight: bold;
 		font-size: 1.8rem;
 		text-align: center;
